@@ -40,7 +40,7 @@ class ConfigurationHelper:
     @staticmethod
     def save_configurations(target_class, configuration_file_location: str, **kwargs):
         """
-        save_configuration will save the configs which has been provided using `**kwargs` parameter to the
+        save_configuration will save the configs which has been provided using `**kwargs` parameter.
         `configuration_file_location` parameter's value.
         :param target_class: blueprint of the config.
         :param configuration_file_location: hence the name it requires configuration file location.
