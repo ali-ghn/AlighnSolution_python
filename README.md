@@ -1,16 +1,7 @@
-# Alighn Solution python
-
-Alighn solution is a solution which helps to enable users to use the latest 
-saas technologies
-
-## Wallet
-
-a wallet would usually would do simple tasks such as:
-- Send coin
-- Receive coin (a live tracker is required)
-- Create wallet
-
-## Roadmap
-- Exchange
-
-
+# AlighnSolution
+AlighnSolutuin is a saas provider which 
+helps creating more user-friendly UI and
+more flexibility in creating service
+providence
+# License
+## all services in AlighnSolution's GitHub repository is provided as is (all services is the service and is subject to(as exactly as mentioned) "AlighnSolution's github repository" therefore is hereafter as provided as is and as for contracts and licenses i need to mention all licensed covered codes)
